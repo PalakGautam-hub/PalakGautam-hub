@@ -1,4 +1,4 @@
-# Hi, I'm Palak Gautam  
+# Hi, I'm Palak Gautam  ✨
 
 Computer Science student focused on Software Development, Backend Systems, Data Analytics, and Machine Learning.
 
