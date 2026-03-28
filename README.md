@@ -4,6 +4,9 @@ Computer Science student focused on Software Development, Backend Systems, Data 
 
 I build structured, scalable systems and continuously strengthen my fundamentals in programming, backend engineering, analytics, and applied ML.
 
+Visit the portfolio
+
+https://my-fun-portfolio-ten.vercel.app/
 ---
 
 ## Technical Skills  
